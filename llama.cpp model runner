@@ -1,0 +1,5 @@
+go to D:\llama-b8611-bin-win-vulkan-x64
+
+  llama-server -hf S4MPL3BI4S/gemma4-coding-agent:BF16
+
+
